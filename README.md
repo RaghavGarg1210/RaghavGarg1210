@@ -6,19 +6,21 @@ I'm a computer science student at Georgia Tech (B.S., 2029). I build web applica
 
 ## What I'm working on
 
-- CheckMate is an AI-assisted grading platform I founded through Georgia Tech CREATE-X. I'm working on the MVP and customer discovery.
-- I lead SmartPathAI at Big Data Big Impact. We're building a learning platform that turns PDFs into interactive knowledge graphs and personalized quizzes using Graph RAG, LangChain, and LLMs.
+- CheckMate: I'm leading MVP development for an AI-assisted grading platform I founded through Georgia Tech CREATE-X. The platform uses AI to evaluate student work and reduce manual grading.
+- SmartPathAI: At Big Data Big Impact, I lead feature development and testing for a learning platform that turns PDFs into interactive knowledge graphs and personalized quizzes using Graph RAG, LangChain, and LLMs.
 
 ## Experience
 
-I co-founded Serenity, a mental health startup, and was its CTO from 2023 to 2025. I built its Next.js and Firebase website for booking and payments, which supported 50+ therapy sessions, plus a LangChain chatbot that handled 5,000+ chats.
+As co-founder and CTO of Serenity (2023-2025), I built a Next.js and Firebase booking and payment website that supported 50+ therapy sessions, plus a LangChain chatbot that handled 5,000+ chats.
 
-I've designed and deployed multiple websites for clients using React and Next.js, including REST API and payment integrations. I also worked on ESP32 and Firebase projects during an automation and IoT internship.
+At Georgia Tech's [Moore Dynamics and Analytics Laboratory](https://modal.ae.gatech.edu/about/), I developed VR visualizations of systems with multiple degrees of freedom for physics education.
 
-At Georgia Tech's [Moore Dynamics and Analytics Laboratory](https://modal.ae.gatech.edu/about/), I developed VR environments for teaching physics and studying how they affect students' conceptual understanding. My work included visualizing systems with multiple degrees of freedom.
+I've also built client websites with React and Next.js, integrated APIs and payments, and developed ESP32/Firebase automation projects during an IoT internship.
 
 ## Tools I work with
 
-Python, Java, JavaScript, and C++. React, Next.js, and React Native for web and mobile work; LangChain for LLM applications. I've also worked with PostgreSQL, MySQL, Firebase, Supabase, and MongoDB.
+- Languages: Python, Java, JavaScript, C++
+- Frameworks and libraries: React, Next.js, React Native, LangChain
+- Databases and platforms: PostgreSQL, MySQL, Firebase, Supabase, MongoDB
 
 Outside of programming, I enjoy playing chess and poker.
