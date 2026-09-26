@@ -2,7 +2,7 @@
 
 I'm a computer science student at Georgia Tech (B.S., 2029). I build web applications and AI tools for education, and I'm looking for software engineering internships.
 
-[Email](mailto:rgarg96@gatech.edu) · [Repositories](https://github.com/RaghavGarg1210?tab=repositories)
+[Email](mailto:rgarg96@gatech.edu)
 
 ## What I'm working on
 
